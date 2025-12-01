@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/328992865462526660/models/m-8d7f16b3950d41b8be8ed4755c299dac/artifacts
+creation_timestamp: 1764385529813
+experiment_id: '328992865462526660'
+last_updated_timestamp: 1764385535445
+model_id: m-8d7f16b3950d41b8be8ed4755c299dac
+model_type: null
+name: Sales_KNN
+source_run_id: e5917a92e1fd472ab08d8b8aa9d050bd
+status: 2
+status_message: null

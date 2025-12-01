@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/881001231596288278/models/m-1a2b30a277e74430b55cecad446fcc20/artifacts
+creation_timestamp: 1764385710794
+experiment_id: '881001231596288278'
+last_updated_timestamp: 1764385716974
+model_id: m-1a2b30a277e74430b55cecad446fcc20
+model_type: null
+name: Quantity_DecisionTree
+source_run_id: 84791ec91bfa416498c04c31ab33a32f
+status: 2
+status_message: null

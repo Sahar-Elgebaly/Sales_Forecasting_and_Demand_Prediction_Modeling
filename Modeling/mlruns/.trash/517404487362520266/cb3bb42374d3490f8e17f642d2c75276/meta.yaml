@@ -1,0 +1,15 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/517404487362520266/cb3bb42374d3490f8e17f642d2c75276/artifacts
+deleted_time: 1764389391314
+end_time: 1764384984629
+entry_point_name: ''
+experiment_id: '517404487362520266'
+lifecycle_stage: deleted
+run_id: cb3bb42374d3490f8e17f642d2c75276
+run_name: Quantity_DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764384976290
+status: 3
+tags: []
+user_id: Sahar Elgebaly

@@ -1,0 +1,15 @@
+creation_timestamp: 1764391099126
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764391099126
+model_id: m-2fda68b8e9894473a09b149697ce07e8
+name: Quantity_AdaBoost
+run_id: ab917614ff0b47a3bb0d770f19d78ec2
+run_link: null
+source: models:/m-2fda68b8e9894473a09b149697ce07e8
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/models/m-2fda68b8e9894473a09b149697ce07e8/artifacts
+user_id: null
+version: 7

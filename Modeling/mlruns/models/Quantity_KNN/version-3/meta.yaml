@@ -1,0 +1,15 @@
+creation_timestamp: 1764389251499
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764389251499
+model_id: m-3334cf370c994852a0c704f8e7537f70
+name: Quantity_KNN
+run_id: 3fa6f1e5d52844b3bc357f45112c5ebf
+run_link: null
+source: models:/m-3334cf370c994852a0c704f8e7537f70
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/models/m-3334cf370c994852a0c704f8e7537f70/artifacts
+user_id: null
+version: 3

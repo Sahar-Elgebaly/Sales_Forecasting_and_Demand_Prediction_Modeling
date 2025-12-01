@@ -1,0 +1,15 @@
+creation_timestamp: 1764592747659
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764592747659
+model_id: m-5694f15928054ea39eb61ab1102b9a5f
+name: best_technology_quantity_model
+run_id: 54dcc7216d5349ff8620844fe114863d
+run_link: null
+source: models:/m-5694f15928054ea39eb61ab1102b9a5f
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/490194421740846893/models/m-5694f15928054ea39eb61ab1102b9a5f/artifacts
+user_id: null
+version: 2

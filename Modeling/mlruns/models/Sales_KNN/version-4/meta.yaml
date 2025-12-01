@@ -1,0 +1,15 @@
+creation_timestamp: 1764389935942
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764389935942
+model_id: m-c67df08353fd47719733212754eb1356
+name: Sales_KNN
+run_id: 7bdcebc72a394148b70a584eb02b6ec4
+run_link: null
+source: models:/m-c67df08353fd47719733212754eb1356
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/models/m-c67df08353fd47719733212754eb1356/artifacts
+user_id: null
+version: 4

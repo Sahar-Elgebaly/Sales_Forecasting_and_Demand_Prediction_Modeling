@@ -1,0 +1,11 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/792315839171837133/models/m-26942540402b40fe93426e5e7d3706b0/artifacts
+creation_timestamp: 1764385544830
+experiment_id: '792315839171837133'
+last_updated_timestamp: 1764385544830
+lifecycle_stage: active
+model_id: m-26942540402b40fe93426e5e7d3706b0
+model_type: null
+name: Quantity_XGBoost
+source_run_id: 58323d7849bc4557b82d41718ab56ce1
+status: 1
+status_message: null

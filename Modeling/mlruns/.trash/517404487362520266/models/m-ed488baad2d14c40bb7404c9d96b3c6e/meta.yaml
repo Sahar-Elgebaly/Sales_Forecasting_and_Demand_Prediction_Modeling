@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/517404487362520266/models/m-ed488baad2d14c40bb7404c9d96b3c6e/artifacts
+creation_timestamp: 1764384465614
+experiment_id: '517404487362520266'
+last_updated_timestamp: 1764384485447
+model_id: m-ed488baad2d14c40bb7404c9d96b3c6e
+model_type: null
+name: final_sales_xgb
+source_run_id: d5a9a7c3602240159ecefc1c76d12d02
+status: 2
+status_message: null

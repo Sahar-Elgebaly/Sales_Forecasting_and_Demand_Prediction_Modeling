@@ -1,0 +1,15 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/c777cdd02eef4cd4b37c10ca90232283/artifacts
+deleted_time: 1764391068060
+end_time: 1764389226549
+entry_point_name: ''
+experiment_id: '476528284941620079'
+lifecycle_stage: deleted
+run_id: c777cdd02eef4cd4b37c10ca90232283
+run_name: Sales_AdaBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764389220672
+status: 3
+tags: []
+user_id: Sahar Elgebaly

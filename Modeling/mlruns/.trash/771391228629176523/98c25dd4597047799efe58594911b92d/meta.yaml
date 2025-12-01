@@ -1,0 +1,15 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/771391228629176523/98c25dd4597047799efe58594911b92d/artifacts
+deleted_time: 1764389150045
+end_time: 1764388515934
+entry_point_name: ''
+experiment_id: '771391228629176523'
+lifecycle_stage: deleted
+run_id: 98c25dd4597047799efe58594911b92d
+run_name: Sales_KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764388509945
+status: 3
+tags: []
+user_id: Sahar Elgebaly

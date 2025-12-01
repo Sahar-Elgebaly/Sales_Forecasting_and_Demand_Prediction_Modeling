@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/771391228629176523/models/m-823bcb8d74c947d4add84b1f30655607/artifacts
+creation_timestamp: 1764385641475
+experiment_id: '771391228629176523'
+last_updated_timestamp: 1764385647844
+model_id: m-823bcb8d74c947d4add84b1f30655607
+model_type: null
+name: Sales_XGBoost
+source_run_id: 226eac4e080a4b2e898bfbd8f4d353c9
+status: 2
+status_message: null

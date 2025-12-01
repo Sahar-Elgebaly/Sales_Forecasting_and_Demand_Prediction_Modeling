@@ -1,0 +1,15 @@
+creation_timestamp: 1764391495818
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764391495818
+model_id: m-73e425c8ceb04844a946a32dcc01dedf
+name: final_qty_xgb
+run_id: fc510467b24d4ad5a49fecbc29c45af8
+run_link: null
+source: models:/m-73e425c8ceb04844a946a32dcc01dedf
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/models/m-73e425c8ceb04844a946a32dcc01dedf/artifacts
+user_id: null
+version: 1

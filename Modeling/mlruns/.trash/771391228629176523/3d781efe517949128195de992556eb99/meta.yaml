@@ -1,0 +1,15 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/771391228629176523/3d781efe517949128195de992556eb99/artifacts
+deleted_time: 1764389150045
+end_time: 1764388244629
+entry_point_name: ''
+experiment_id: '771391228629176523'
+lifecycle_stage: deleted
+run_id: 3d781efe517949128195de992556eb99
+run_name: Sales_DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764388238061
+status: 3
+tags: []
+user_id: Sahar Elgebaly

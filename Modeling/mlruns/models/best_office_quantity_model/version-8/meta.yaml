@@ -1,0 +1,15 @@
+creation_timestamp: 1764596060181
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764596060181
+model_id: m-7f13ab166d994962be0f3077c7db6b57
+name: best_office_quantity_model
+run_id: b7a40e25068649e5b220febae8efd587
+run_link: null
+source: models:/m-7f13ab166d994962be0f3077c7db6b57
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/427167454577104379/models/m-7f13ab166d994962be0f3077c7db6b57/artifacts
+user_id: null
+version: 8

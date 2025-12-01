@@ -1,0 +1,15 @@
+creation_timestamp: 1764389226490
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764389226490
+model_id: m-3daaf23d4a644ffbb1eb0461959cdbd6
+name: Sales_AdaBoost
+run_id: c777cdd02eef4cd4b37c10ca90232283
+run_link: null
+source: models:/m-3daaf23d4a644ffbb1eb0461959cdbd6
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/models/m-3daaf23d4a644ffbb1eb0461959cdbd6/artifacts
+user_id: null
+version: 3

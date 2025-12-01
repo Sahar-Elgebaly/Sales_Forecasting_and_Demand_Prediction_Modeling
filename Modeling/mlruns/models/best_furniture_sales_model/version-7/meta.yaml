@@ -1,0 +1,15 @@
+creation_timestamp: 1764595456129
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764595456129
+model_id: m-9a80aee3aa6a4023a81a05899ff47eb5
+name: best_furniture_sales_model
+run_id: 3293602f8c084e8f979ead74cd48c101
+run_link: null
+source: models:/m-9a80aee3aa6a4023a81a05899ff47eb5
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/808490417813259096/models/m-9a80aee3aa6a4023a81a05899ff47eb5/artifacts
+user_id: null
+version: 7

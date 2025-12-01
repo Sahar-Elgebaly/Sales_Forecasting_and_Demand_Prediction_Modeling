@@ -1,0 +1,15 @@
+creation_timestamp: 1764595817671
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764595817671
+model_id: m-33f77788e979415783c71720514cc68a
+name: best_furniture_quantity_model
+run_id: 4f8f81f400574324affa3f323dfb042f
+run_link: null
+source: models:/m-33f77788e979415783c71720514cc68a
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/225029293044286499/models/m-33f77788e979415783c71720514cc68a/artifacts
+user_id: null
+version: 7

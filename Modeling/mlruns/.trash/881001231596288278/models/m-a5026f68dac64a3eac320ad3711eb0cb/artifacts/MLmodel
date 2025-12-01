@@ -1,0 +1,22 @@
+artifact_path: file:F:/DEPI files/MLFlow/Modeling/mlruns/881001231596288278/models/m-a5026f68dac64a3eac320ad3711eb0cb/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.5.1
+model_id: m-a5026f68dac64a3eac320ad3711eb0cb
+model_size_bytes: 22763812
+model_uuid: m-a5026f68dac64a3eac320ad3711eb0cb
+prompts: null
+run_id: 7d9c18167dda41138bc7d76d98b93c06
+utc_time_created: '2025-11-29 03:51:19.916949'

@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/a2ee18d239d7464cad877288e72ddb44/artifacts
+end_time: 1764391498433
+entry_point_name: ''
+experiment_id: '371421150298857244'
+lifecycle_stage: active
+run_id: a2ee18d239d7464cad877288e72ddb44
+run_name: Quantity_KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764391498257
+status: 3
+tags: []
+user_id: Sahar Elgebaly

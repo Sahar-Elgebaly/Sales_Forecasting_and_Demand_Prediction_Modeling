@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/969660093433776433/models/m-2397855851814e9aa5e418c5b6bc55ed/artifacts
+creation_timestamp: 1764596061392
+experiment_id: '969660093433776433'
+last_updated_timestamp: 1764596067053
+model_id: m-2397855851814e9aa5e418c5b6bc55ed
+model_type: null
+name: model
+source_run_id: feeb762ff040457189374012c02f0cc9
+status: 2
+status_message: null

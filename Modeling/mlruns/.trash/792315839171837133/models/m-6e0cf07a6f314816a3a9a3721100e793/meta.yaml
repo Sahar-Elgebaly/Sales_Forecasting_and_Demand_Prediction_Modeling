@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/792315839171837133/models/m-6e0cf07a6f314816a3a9a3721100e793/artifacts
+creation_timestamp: 1764385487987
+experiment_id: '792315839171837133'
+last_updated_timestamp: 1764385494272
+model_id: m-6e0cf07a6f314816a3a9a3721100e793
+model_type: null
+name: final_qty_xgb
+source_run_id: 99c7a4d41a1942198e75179c2c91fed6
+status: 2
+status_message: null

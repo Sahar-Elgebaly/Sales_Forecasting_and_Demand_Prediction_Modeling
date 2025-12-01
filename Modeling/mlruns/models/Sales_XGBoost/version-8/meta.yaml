@@ -1,0 +1,15 @@
+creation_timestamp: 1764391040735
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764391040735
+model_id: m-ffaa549dc8354746bf2a47a894831946
+name: Sales_XGBoost
+run_id: 43fe3c465c444a5cba2acdf942531b34
+run_link: null
+source: models:/m-ffaa549dc8354746bf2a47a894831946
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/models/m-ffaa549dc8354746bf2a47a894831946/artifacts
+user_id: null
+version: 8

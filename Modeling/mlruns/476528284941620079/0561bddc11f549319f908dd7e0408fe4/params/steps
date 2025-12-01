@@ -1,0 +1,12 @@
+[('prep', ColumnTransformer(transformers=[('num', 'passthrough',
+                                 ['Discount', 'Profit', 'Year', 'Month', 'Day',
+                                  'Day_of_Week', 'WeekOfYear', 'Is_Weekend',
+                                  'IsMonthStart', 'IsMonthEnd', 'Sales_lag_1',
+                                  'Sales_lag_7', 'Sales_lag_30', 'Qty_lag_1',
+                                  'Qty_lag_7', 'Qty_lag_30',
+                                  'Sales_roll_mean_7', 'Sales_roll_std_7',
+                                  'Qty_roll_mean_7', 'Qty_roll_std_7',
+                                  'Sales_diff_1', 'Qty_diff_1']),
+                                ('cat', OneHotEncoder(handle_unknown='ignore'),
+                                 ['Category', 'Sub-Category', 'Ship Mode',
+                                  'Market', 'Region', 'Segment', 'Season'])])), ('model', RandomForestRegressor(max_depth=4, max_features=6, random_state=42))]

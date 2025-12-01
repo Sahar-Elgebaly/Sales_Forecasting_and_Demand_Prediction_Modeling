@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/328992865462526660/models/m-bf22c265d7884efe9ad293e9b435cb2a/artifacts
+creation_timestamp: 1764385506222
+experiment_id: '328992865462526660'
+last_updated_timestamp: 1764385511619
+model_id: m-bf22c265d7884efe9ad293e9b435cb2a
+model_type: null
+name: Sales_RandomForest
+source_run_id: 8c19042bd0d84917a4f57822b8e67ca9
+status: 2
+status_message: null

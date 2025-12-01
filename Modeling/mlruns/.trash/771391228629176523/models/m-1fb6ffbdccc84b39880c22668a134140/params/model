@@ -1,0 +1,2 @@
+DecisionTreeRegressor(max_depth=6, max_features=7, min_samples_split=10,
+                      random_state=2)

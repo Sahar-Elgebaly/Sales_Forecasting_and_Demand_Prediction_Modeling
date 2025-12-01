@@ -1,0 +1,15 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/08c479cdad27481f9639f7cc242fef7c/artifacts
+deleted_time: 1764390711630
+end_time: 1764389971723
+entry_point_name: ''
+experiment_id: '371421150298857244'
+lifecycle_stage: deleted
+run_id: 08c479cdad27481f9639f7cc242fef7c
+run_name: Quantity_AdaBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764389966179
+status: 3
+tags: []
+user_id: Sahar Elgebaly

@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/517404487362520266/models/m-8267d0ecf9ac49bbaf1181ed2d0d3852/artifacts
+creation_timestamp: 1764384517811
+experiment_id: '517404487362520266'
+last_updated_timestamp: 1764384524020
+model_id: m-8267d0ecf9ac49bbaf1181ed2d0d3852
+model_type: null
+name: Sales_DecisionTree
+source_run_id: 324e3479545d44e1b2135a2d7efab441
+status: 2
+status_message: null

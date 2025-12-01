@@ -1,0 +1,15 @@
+creation_timestamp: 1764388237928
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764388237928
+model_id: m-48ae93a152af4c73a3293d31a8498002
+name: Sales_RandomForest
+run_id: c33877affef34e0aa5fffd0def3407dd
+run_link: null
+source: models:/m-48ae93a152af4c73a3293d31a8498002
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/771391228629176523/models/m-48ae93a152af4c73a3293d31a8498002/artifacts
+user_id: null
+version: 1

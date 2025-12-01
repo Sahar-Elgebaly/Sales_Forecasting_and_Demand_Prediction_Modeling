@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/517404487362520266/models/m-8e521a1d0bff45b59bb822b467b9da1e/artifacts
+creation_timestamp: 1764385008559
+experiment_id: '517404487362520266'
+last_updated_timestamp: 1764385014507
+model_id: m-8e521a1d0bff45b59bb822b467b9da1e
+model_type: null
+name: Quantity_AdaBoost
+source_run_id: 42d4853db47441c08ae1d822376e54e6
+status: 2
+status_message: null

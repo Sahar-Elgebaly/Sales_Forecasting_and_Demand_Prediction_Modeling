@@ -1,0 +1,15 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/517404487362520266/f3f9a97a17704cc99d68bfa878cf3833/artifacts
+deleted_time: 1764389391314
+end_time: 1764384504476
+entry_point_name: ''
+experiment_id: '517404487362520266'
+lifecycle_stage: deleted
+run_id: f3f9a97a17704cc99d68bfa878cf3833
+run_name: Sales_XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764384494564
+status: 3
+tags: []
+user_id: Sahar Elgebaly

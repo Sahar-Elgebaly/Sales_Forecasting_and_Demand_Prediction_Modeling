@@ -1,0 +1,15 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/808490417813259096/bd0f8a8d0d8c48749aeb20725a375cb1/artifacts
+deleted_time: 1764596030940
+end_time: 1764594555737
+entry_point_name: ''
+experiment_id: '808490417813259096'
+lifecycle_stage: deleted
+run_id: bd0f8a8d0d8c48749aeb20725a375cb1
+run_name: best_furniture_sales_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764594545989
+status: 3
+tags: []
+user_id: Sahar Elgebaly

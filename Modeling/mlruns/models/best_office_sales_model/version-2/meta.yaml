@@ -1,0 +1,15 @@
+creation_timestamp: 1764592732105
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764592732105
+model_id: m-c61bbcfc2547419794250dc093fb5be6
+name: best_office_sales_model
+run_id: 8fefe66a641341c29dceaf80a9a10f99
+run_link: null
+source: models:/m-c61bbcfc2547419794250dc093fb5be6
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/186675649687394273/models/m-c61bbcfc2547419794250dc093fb5be6/artifacts
+user_id: null
+version: 2

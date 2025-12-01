@@ -1,0 +1,15 @@
+creation_timestamp: 1764391481717
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764391481717
+model_id: m-4eba64163819487fa7288482ce8bfbfc
+name: final_Sales_xgb
+run_id: 7826e0a859a44abd8080acfc5ee6b953
+run_link: null
+source: models:/m-4eba64163819487fa7288482ce8bfbfc
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/models/m-4eba64163819487fa7288482ce8bfbfc/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+creation_timestamp: 1764388528138
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764388528138
+model_id: m-4dbaf594c2444227882f62efeb34efec
+name: Quantity_XGBoost
+run_id: a065361e4f544bb8a954bd392d111ce5
+run_link: null
+source: models:/m-4dbaf594c2444227882f62efeb34efec
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/881001231596288278/models/m-4dbaf594c2444227882f62efeb34efec/artifacts
+user_id: null
+version: 2

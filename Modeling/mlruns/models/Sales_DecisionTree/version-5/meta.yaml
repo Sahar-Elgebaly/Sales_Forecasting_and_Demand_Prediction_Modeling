@@ -1,0 +1,15 @@
+creation_timestamp: 1764390208591
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764390208591
+model_id: m-c689aeefe1144fc3a9e4b93961536d4d
+name: Sales_DecisionTree
+run_id: a285c2a2b52f46b4968ed9f89206d8df
+run_link: null
+source: models:/m-c689aeefe1144fc3a9e4b93961536d4d
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/models/m-c689aeefe1144fc3a9e4b93961536d4d/artifacts
+user_id: null
+version: 5

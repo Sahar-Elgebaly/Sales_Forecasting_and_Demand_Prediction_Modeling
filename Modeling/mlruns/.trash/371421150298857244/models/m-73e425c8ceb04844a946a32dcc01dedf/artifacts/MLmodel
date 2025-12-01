@@ -1,0 +1,48 @@
+artifact_path: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/models/m-73e425c8ceb04844a946a32dcc01dedf/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.5.1
+model_id: m-73e425c8ceb04844a946a32dcc01dedf
+model_size_bytes: 313503
+model_uuid: m-73e425c8ceb04844a946a32dcc01dedf
+prompts: null
+run_id: fc510467b24d4ad5a49fecbc29c45af8
+signature:
+  inputs: '[{"type": "double", "name": "Discount", "required": true}, {"type": "double",
+    "name": "Profit", "required": true}, {"type": "long", "name": "Year", "required":
+    true}, {"type": "long", "name": "Month", "required": true}, {"type": "long", "name":
+    "Day", "required": true}, {"type": "long", "name": "Day_of_Week", "required":
+    true}, {"type": "long", "name": "WeekOfYear", "required": true}, {"type": "long",
+    "name": "Is_Weekend", "required": true}, {"type": "long", "name": "IsMonthStart",
+    "required": true}, {"type": "long", "name": "IsMonthEnd", "required": true}, {"type":
+    "double", "name": "Sales_lag_1", "required": true}, {"type": "double", "name":
+    "Sales_lag_7", "required": true}, {"type": "double", "name": "Sales_lag_30", "required":
+    true}, {"type": "double", "name": "Qty_lag_1", "required": true}, {"type": "double",
+    "name": "Qty_lag_7", "required": true}, {"type": "double", "name": "Qty_lag_30",
+    "required": true}, {"type": "double", "name": "Sales_roll_mean_7", "required":
+    true}, {"type": "double", "name": "Sales_roll_std_7", "required": true}, {"type":
+    "double", "name": "Qty_roll_mean_7", "required": true}, {"type": "double", "name":
+    "Qty_roll_std_7", "required": true}, {"type": "double", "name": "Sales_diff_1",
+    "required": true}, {"type": "double", "name": "Qty_diff_1", "required": true},
+    {"type": "string", "name": "Category", "required": true}, {"type": "string", "name":
+    "Sub-Category", "required": true}, {"type": "string", "name": "Ship Mode", "required":
+    true}, {"type": "string", "name": "Market", "required": true}, {"type": "string",
+    "name": "Region", "required": true}, {"type": "string", "name": "Segment", "required":
+    true}, {"type": "string", "name": "Season", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-29 04:44:49.364803'

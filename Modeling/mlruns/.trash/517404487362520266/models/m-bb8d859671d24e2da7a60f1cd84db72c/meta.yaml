@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/517404487362520266/models/m-bb8d859671d24e2da7a60f1cd84db72c/artifacts
+creation_timestamp: 1764384585691
+experiment_id: '517404487362520266'
+last_updated_timestamp: 1764384591301
+model_id: m-bb8d859671d24e2da7a60f1cd84db72c
+model_type: null
+name: Quantity_KNN
+source_run_id: d90c2a70f23c43ab965ce08fd9671d68
+status: 2
+status_message: null

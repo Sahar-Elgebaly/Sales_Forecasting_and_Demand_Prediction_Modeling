@@ -1,0 +1,15 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/969660093433776433/09194c9ec936489094536a0974067a85/artifacts
+deleted_time: 1764595911416
+end_time: 1764592605122
+entry_point_name: ''
+experiment_id: '969660093433776433'
+lifecycle_stage: deleted
+run_id: 09194c9ec936489094536a0974067a85
+run_name: best_technology_sales_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764592597597
+status: 3
+tags: []
+user_id: Sahar Elgebaly

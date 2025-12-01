@@ -1,0 +1,15 @@
+creation_timestamp: 1764391080366
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764391080366
+model_id: m-8e37d0bab38a4073b9b3df89190a58b5
+name: Quantity_RandomForest
+run_id: de6739c0543a4781ae778349bac7aa65
+run_link: null
+source: models:/m-8e37d0bab38a4073b9b3df89190a58b5
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/models/m-8e37d0bab38a4073b9b3df89190a58b5/artifacts
+user_id: null
+version: 7

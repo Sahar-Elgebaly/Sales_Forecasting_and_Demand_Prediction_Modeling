@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/517404487362520266/models/m-ff8317b07b01461b8468a11f8b19bb63/artifacts
+creation_timestamp: 1764384561659
+experiment_id: '517404487362520266'
+last_updated_timestamp: 1764384567789
+model_id: m-ff8317b07b01461b8468a11f8b19bb63
+model_type: null
+name: Quantity_RandomForest
+source_run_id: 48822c4f61ec4a9cb5e35198728ea31c
+status: 2
+status_message: null

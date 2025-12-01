@@ -1,0 +1,15 @@
+creation_timestamp: 1764390242745
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764390242745
+model_id: m-3da64bdac4f74ec48f85919f0878f27c
+name: Quantity_DecisionTree
+run_id: ef6ab9b730c44e979647f30e89456018
+run_link: null
+source: models:/m-3da64bdac4f74ec48f85919f0878f27c
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/models/m-3da64bdac4f74ec48f85919f0878f27c/artifacts
+user_id: null
+version: 5

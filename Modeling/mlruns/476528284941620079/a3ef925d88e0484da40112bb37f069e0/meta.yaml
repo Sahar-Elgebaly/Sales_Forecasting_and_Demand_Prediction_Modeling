@@ -1,0 +1,15 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/a3ef925d88e0484da40112bb37f069e0/artifacts
+deleted_time: 1764391068037
+end_time: 1764389924372
+entry_point_name: ''
+experiment_id: '476528284941620079'
+lifecycle_stage: deleted
+run_id: a3ef925d88e0484da40112bb37f069e0
+run_name: Sales_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764389918683
+status: 3
+tags: []
+user_id: Sahar Elgebaly

@@ -1,0 +1,8 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/517404487362520266
+creation_time: 1764384327403
+experiment_id: '517404487362520266'
+last_update_time: 1764389391314
+lifecycle_stage: deleted
+name: Sales Forecasting and Demand Prediction
+tags:
+  mlflow.experimentKind: custom_model_development

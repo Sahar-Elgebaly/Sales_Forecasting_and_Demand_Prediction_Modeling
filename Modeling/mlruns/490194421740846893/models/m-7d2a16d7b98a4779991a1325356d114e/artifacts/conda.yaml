@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+dependencies:
+- python>=3.8
+- pip
+- pip:
+  - mlflow==3.5.1
+  - statsmodels>=0.14.0

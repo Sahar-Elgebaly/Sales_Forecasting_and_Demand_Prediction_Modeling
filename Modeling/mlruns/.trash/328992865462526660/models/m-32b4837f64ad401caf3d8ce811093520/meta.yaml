@@ -1,0 +1,10 @@
+artifact_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/328992865462526660/models/m-32b4837f64ad401caf3d8ce811093520/artifacts
+creation_timestamp: 1764385537490
+experiment_id: '328992865462526660'
+last_updated_timestamp: 1764385543225
+model_id: m-32b4837f64ad401caf3d8ce811093520
+model_type: null
+name: Sales_AdaBoost
+source_run_id: 53366be3b9c14f7ebeda0403436a8a20
+status: 2
+status_message: null
