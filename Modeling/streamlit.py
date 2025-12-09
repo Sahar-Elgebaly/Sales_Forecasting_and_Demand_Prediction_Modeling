@@ -392,7 +392,6 @@ with st.sidebar:
 st.markdown("""
 <div class="main-header">
     <h1 style='color: white; margin: 0;'>📊 Weekly Sales & Quantity Forecasting</h1>
-    <p style='color: white; opacity: 0.9;'>Direct Model Prediction - No API Required</p>
 </div>
 """, unsafe_allow_html=True)
 
