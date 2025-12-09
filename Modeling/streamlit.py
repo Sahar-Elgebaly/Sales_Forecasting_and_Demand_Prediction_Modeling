@@ -88,7 +88,7 @@ st.markdown("""
 @st.cache_resource
 def load_models():
     models = {}
-    model_dir = "Model_joblib"
+    model_dir = "Modeling/Model_joblib"
     
     model_files = {
         "Furniture": {
@@ -150,9 +150,9 @@ def load_models():
 def load_weekly_data():
     data = {}
     data_files = {
-        "Furniture": "data/df_furniture_weekly_features2.csv",
-        "Office Supplies": "data/df_office_weekly_features2.csv",
-        "Technology": "data/df_technology_weekly_features2.csv"
+        "Furniture": "Modeling/data/df_furniture_weekly_features2.csv",
+        "Office Supplies": "Modeling/data/df_office_weekly_features2.csv",
+        "Technology": "Modeling/data/df_technology_weekly_features2.csv"
     }
     
     for category, filepath in data_files.items():
