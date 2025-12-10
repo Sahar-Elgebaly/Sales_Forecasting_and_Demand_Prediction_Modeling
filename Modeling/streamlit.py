@@ -88,7 +88,7 @@ st.markdown("""
 @st.cache_resource
 def load_models():
     models = {}
-    model_dir = "Model_joblib"
+    model_dir = "Modeling/Model_joblib"
     
     model_files = {
         "Furniture": {
@@ -150,9 +150,9 @@ def load_models():
 def load_weekly_data():
     data = {}
     data_files = {
-        "Furniture": "data/df_furniture_weekly_features2.csv",
-        "Office Supplies": "data/df_office_weekly_features2.csv",
-        "Technology": "data/df_technology_weekly_features2.csv"
+        "Furniture": "Modeling/data/df_furniture_weekly_features2.csv",
+        "Office Supplies": "Modeling/data/df_office_weekly_features2.csv",
+        "Technology": "Modeling/data/df_technology_weekly_features2.csv"
     }
     
     for category, filepath in data_files.items():
@@ -392,7 +392,6 @@ with st.sidebar:
 st.markdown("""
 <div class="main-header">
     <h1 style='color: white; margin: 0;'>📊 Weekly Sales & Quantity Forecasting</h1>
-    <p style='color: white; opacity: 0.9;'>Direct Model Prediction - No API Required</p>
 </div>
 """, unsafe_allow_html=True)
 
