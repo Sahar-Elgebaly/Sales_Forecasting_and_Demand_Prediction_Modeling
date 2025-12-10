@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/225029293044286499/a782c35bed3e4c0ba3ad2836526983a5/artifacts
+end_time: 1765380495636
+entry_point_name: ''
+experiment_id: '225029293044286499'
+lifecycle_stage: active
+run_id: a782c35bed3e4c0ba3ad2836526983a5
+run_name: best_furniture_quantity_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765380494871
+status: 3
+tags: []
+user_id: Sahar Elgebaly

@@ -1,0 +1,15 @@
+creation_timestamp: 1765380508352
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1765380508352
+model_id: m-f888387aa26f4d97905e436e563c4a43
+name: best_technology_sales_model
+run_id: ced59087c46d4387874cdacb328aede8
+run_link: null
+source: models:/m-f888387aa26f4d97905e436e563c4a43
+status: READY
+status_message: null
+storage_location: file:F:/DEPI files/MLFlow/Modeling/mlruns/969660093433776433/models/m-f888387aa26f4d97905e436e563c4a43/artifacts
+user_id: null
+version: 10

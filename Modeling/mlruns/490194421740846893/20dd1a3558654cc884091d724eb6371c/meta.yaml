@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/490194421740846893/20dd1a3558654cc884091d724eb6371c/artifacts
+end_time: 1764608137240
+entry_point_name: ''
+experiment_id: '490194421740846893'
+lifecycle_stage: active
+run_id: 20dd1a3558654cc884091d724eb6371c
+run_name: best_technology_quantity_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764608136262
+status: 3
+tags: []
+user_id: Sahar Elgebaly
